@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "180897",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "438090",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "1239467",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1318930",
+      "name": "电影院",
+      "font_class": "dianying1",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "8074552",
+      "name": "Lower triangle",
+      "font_class": "Lowertriangle",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "8221854",
+      "name": "wode",
+      "font_class": "wode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
