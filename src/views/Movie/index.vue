@@ -1,7 +1,9 @@
 <template>
   <div id="main">
       <Header title="adc电影"></Header>
+      <!-- 电影内容 -->
       <div id="content">
+        <!-- 电影二级菜单 -->
           <div class="movie_menu">
               <router-link tag="div" to="/movie/city" class="city_name">
                   <span>大连</span><i class="iconfont icon-Lowertriangle"></i>
